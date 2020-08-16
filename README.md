@@ -1,2 +1,2 @@
 # kerri
-kerri
+ kerri-project
